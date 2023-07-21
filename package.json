@@ -16,7 +16,7 @@
     "lint": "eslint .",
     "clean": "rm -rf .artifact-output .yext/ dist/ localData sites-rendered-output",
     "generate-notices": "generate-license-file --input package.json --output ./THIRD-PARTY-NOTICES --overwrite",
-    "studio": "npm run features && yext pages generate-test-data -a && studio"
+    "studio": "npm run features && studio"
   },
   "engines": {
     "node": "18"
@@ -36,8 +36,8 @@
     "@typescript-eslint/parser": "^5.36.2",
     "@vitejs/plugin-react": "^3.1.0",
     "@yext/pages": "1.0.0-beta.20",
-    "@yext/studio": "0.7.0",
-    "@yext/studio-plugin": "0.7.0",
+    "@yext/studio": "^0.12.0",
+    "@yext/studio-plugin": "^0.12.0",
     "autoprefixer": "^10.4.8",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-react": "^7.31.7",

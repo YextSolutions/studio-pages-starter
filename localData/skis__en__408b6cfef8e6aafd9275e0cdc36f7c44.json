@@ -1,0 +1,65 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "product",
+		"streamId": "skis",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "New York",
+		"countryCode": "US",
+		"line1": "61 9th Avenue",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "New York",
+		"postalCode": "10011",
+		"region": "NY"
+	},
+	"businessId": 3216608,
+	"c_price": "699.99",
+	"cityCoordinate": {
+		"latitude": 40.78200149536133,
+		"longitude": -73.83170318603516
+	},
+	"description": "Looking for reliable and dynamic skis that are perfect for both groomed and ungroomed conditions? Blazing Fast Skis have got you covered! These highly versatile freestyle skis feature a playful rockered tip and tail, which provides ample floatation in deep snow while maintaining stability on hardpack. Its lightweight Poplar-Core construction lends it the perfect balance of strength, agility and flexibility to perform on any terrain, making it an ideal option for intermediate or advanced skiers who want to push boundaries.",
+	"geocodedCoordinate": {
+		"latitude": 40.741607,
+		"longitude": -74.00527
+	},
+	"id": "4889249132731136925",
+	"key": "0:product:knowledgeGraph:41786979:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_product",
+			"uid": 118386
+		},
+		"locale": "en"
+	},
+	"name": "Blazing Fast Skis",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 2384,
+				"url": "http://a.mktgcdn.com/p-sandbox/JREfr7-4xcZVsBwov7Yo1NgjVA8fFM3jJA0I49T8Org/2384x2384.jpg",
+				"width": 2384
+			}
+		}
+	],
+	"ref_listings": [],
+	"ref_reviewsAgg": [],
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "blazing-fast-skis",
+	"uid": 41786979,
+	"yextDisplayCoordinate": {
+		"latitude": 40.741607,
+		"longitude": -74.00527
+	},
+	"yextRoutableCoordinate": {
+		"latitude": 40.7415035,
+		"longitude": -74.0050342
+	}
+}
